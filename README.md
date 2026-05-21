@@ -10,7 +10,7 @@ Nosso projeto tem como objetivo criar um sistema de gestão de granjas, que poss
 <img src="https://github.com/user-attachments/assets/915a3911-f877-40e4-a4f5-8dd5db487528" width="50%">
 Equipe: Rhauany Aragão - rhauany.sena@dcx.ufpb.br 
 
-<img src="https://github.com/user-attachments/assets/a7cecea2-238b-4ee9-b8e6-0e40f080a783](https://github.com/user-attachments/assets/6e2aed32-465a-42ef-9747-60b96f24768d)" width="50%">
+<img src="(https://github.com/user-attachments/assets/6e2aed32-465a-42ef-9747-60b96f24768d)" width="50%">
 Maria Rafaela - maria.nunes@dcx.ufpb.br
 
 <img src="https://github.com/user-attachments/assets/a7cecea2-238b-4ee9-b8e6-0e40f080a783" width="50%">

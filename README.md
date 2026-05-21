@@ -22,5 +22,5 @@ Jamilly-santos - jamilly.santos@dcx.ufpb.br
 
 
 Mariano Santos - mariano.santos@dcx.ufpb.br
-<img src=<img width="1295" height="1600" alt="image" src="https://github.com/user-attachments/assets/c1b764e7-4c24-4f63-ba31-9a8ced28dd0e" />
+<img src=width="1295" height="1600" alt="image" src="https://github.com/user-attachments/assets/c1b764e7-4c24-4f63-ba31-9a8ced28dd0e" />
  width="50%">

@@ -5,10 +5,11 @@ Netto, onde temos o objetivo de atender e analisar todos os requisitos de um
 cliente real, utilizando as diversas práticas da Engenharia de Software.
 
 Nosso projeto tem como objetivo criar um sistema de gestão de granjas, que possa ajudar cadastrando, analisando e acompanhando informações relacionadas à produção, ao controle de animais, estoque, alimentação e desempenho da granja, facilitando a organização, a tomada de decisões e a eficiência no gerenciamento das atividades.
+Equipe:
 
 
 <img src="https://github.com/user-attachments/assets/915a3911-f877-40e4-a4f5-8dd5db487528" width="400" align="center">
-Equipe: Rhauany Aragão - rhauany.sena@dcx.ufpb.br 
+Rhauany Aragão - rhauany.sena@dcx.ufpb.br 
 
 <img src="https://github.com/user-attachments/assets/6e2aed32-465a-42ef-9747-60b96f24768d" width="400" align="center">
 Maria Rafaela - maria.nunes@dcx.ufpb.br
